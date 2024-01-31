@@ -1,0 +1,7 @@
+export {default as models} from "./images/model-s.jpg"
+export {default as modelx} from "./images/model-x.jpg"
+export {default as modely} from "./images/model-y.jpg"
+export {default as model3} from "./images/model-3.jpg"
+export {default as accessories} from "./images/accessories.jpg"
+export {default as solarPanel} from "./images/solar-panel.jpg"
+export {default as solarRoof} from "./images/solar-roof.jpg"
