@@ -5,7 +5,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Close from '@mui/icons-material/Close';
 import {useSelector} from 'react-redux';
 
-function Header(props) {
+function Header() {
     const [burgerState, setBurgerState] = useState(false);
     const cars = useSelector((state) => state.car.cars);
     return (

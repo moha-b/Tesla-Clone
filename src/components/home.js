@@ -2,7 +2,7 @@ import React from 'react';
 import styled from "styled-components";
 import Section from "./section";
 import * as images from "../images";
-function Home(props) {
+function Home() {
     return (
         <Container>
             <Section
